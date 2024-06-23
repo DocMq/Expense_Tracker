@@ -30,7 +30,7 @@ The Expense Tracker is a command-line application that helps users manage their 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Expense-Tracker.git
+   git clone https://github.com/DocMq/Expense-Tracker.git
    cd Expense-Tracker
 2. **Ensure you have Python 3.x installed**:
     You can download Python from python.org.
